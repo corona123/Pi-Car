@@ -1,1 +1,2 @@
 export FLASK_APP=Pi_Car.py // Add it before execute command: #flask run
+test from the endpoint of RaspberryPi
