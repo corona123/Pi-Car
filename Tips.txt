@@ -1,0 +1,1 @@
+export FLASK_APP=Pi_Car.py // Add it before execute command: #flask run
